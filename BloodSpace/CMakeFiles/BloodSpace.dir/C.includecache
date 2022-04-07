@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/igor/Dokumenty/BloodSpace/dependencies/glad.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+glad.h
+/home/igor/Dokumenty/BloodSpace/dependencies/glad.h
+windows.h
+-
+winapifamily.h
+-
+dlfcn.h
+-
+
+/home/igor/Dokumenty/BloodSpace/dependencies/glad.h
+windows.h
+-
+stddef.h
+-
+KHR/khrplatform.h
+-
+inttypes.h
+-
+inttypes.h
+-
+inttypes.h
+-
+stdint.h
+-
+stdint.h
+-
+inttypes.h
+-
+

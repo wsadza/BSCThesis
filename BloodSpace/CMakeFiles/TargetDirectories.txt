@@ -1,0 +1,3 @@
+/home/igor/Dokumenty/BloodSpace/CMakeFiles/edit_cache.dir
+/home/igor/Dokumenty/BloodSpace/CMakeFiles/rebuild_cache.dir
+/home/igor/Dokumenty/BloodSpace/CMakeFiles/BloodSpace.dir

@@ -1,0 +1,23 @@
+[WidgetButton]
+Position = 300.0, 175.0
+Color = 1.0
+Image = "resources/sprites/widgets/Menu/widget_button.png"
+Shader = "resources/shaders/image.shader"
+NextState = "Play"
+Text = "Play"
+
+[WidgetButton]
+Position = 300.0, 275.0
+Image = "resources/sprites/widgets/Menu/widget_button.png"
+Shader = "resources/shaders/image.shader"
+Color = 1.0
+NextState = "Option"
+Text = "Option"
+
+[WidgetButton]
+Position = 300.0, 375.0
+Color = 1.0
+Image = "resources/sprites/widgets/Menu/widget_button.png"
+Shader = "resources/shaders/image.shader"
+NextState = "Exit"
+Text = "Exit"

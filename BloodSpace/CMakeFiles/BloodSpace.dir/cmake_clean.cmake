@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/BloodSpace.dir/dependencies/glad.c.o"
+  "CMakeFiles/BloodSpace.dir/dependencies/stb_image.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/main.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/utils/Settings.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/utils/SharedResources.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/widgets/BaseWidget.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/widgets/ButtonWidget.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/widgets/LabelWidget.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/states/BaseState.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/states/StateExit.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/states/StateLogo.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/states/StateMenu.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/states/StatePlay.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/states/StatePlayground.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/states/StateSwitcher.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/renderers/PrimitiveRenderer.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/renderers/TextRenderer.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/pieces/Font.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/pieces/Image.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/pieces/Primitive.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/pieces/Shader.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/pieces/Text.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/parsers/FileParser.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/objects/BaseObject.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/objects/CursorObject.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/objects/CreatureObject.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/objects/PlayerObject.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/objects/objectsUtils/ObjectShot.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/objects/ObjectLogo.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/managers/InputManager.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/generators/ParticleGenerator.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/animation/Animation.cpp.o"
+  "CMakeFiles/BloodSpace.dir/sources/effects/Dash.cpp.o"
+  "BloodSpace.pdb"
+  "BloodSpace"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/BloodSpace.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
